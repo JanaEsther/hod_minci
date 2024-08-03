@@ -1,9 +1,9 @@
 # Cvičení: Hod mincí
 
-### Panna
+## Panna
 
 ![panna](obrazky/panna.png)
 
-### Orel
+## Orel
 
 ![orel](obrazky/orel.png)
